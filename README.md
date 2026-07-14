@@ -85,7 +85,7 @@ I enjoy designing secure backend systems, solving real-world problems, and conti
 
 ## 🌍 Local Environmental Issue Reporting System
 
-**Tech Stack**
+**Tech Stack: **
 Spring Boot • React • PostgreSQL • JWT • Docker
 
 Production-ready issue reporting platform featuring role-based authentication, image upload, analytics dashboard, and REST APIs.
@@ -96,7 +96,7 @@ Production-ready issue reporting platform featuring role-based authentication, i
 
 ## 🔐 Secure File Sharing Manager
 
-**Tech Stack**
+**Tech Stack: **
 Spring Boot • React • PostgreSQL • JWT
 
 Secure file management application with authentication, protected APIs, and file sharing capabilities.
@@ -107,7 +107,7 @@ Secure file management application with authentication, protected APIs, and file
 
 ## 🌍 Multilingual OCR Web Application
 
-**Tech Stack**
+**Tech Stack: **
 Python • Flask • OpenCV • Tesseract OCR
 
 OCR application supporting multiple Indian languages with selectable preprocessing techniques for improved recognition accuracy.
