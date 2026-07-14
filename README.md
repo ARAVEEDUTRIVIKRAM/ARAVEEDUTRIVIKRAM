@@ -137,7 +137,7 @@ Python • Flask • OpenCV • Tesseract OCR
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARAVEEDUTRIVIKRAM&layout=compact&theme=github_dark&hide_border=true&exclude_repo=ocr_web_app)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ARAVEEDUTRIVIKRAM&show_icons=true&theme=github_dark&hide_border=true)
 
 ### Contribution Streak
 
