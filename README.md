@@ -145,7 +145,7 @@ Python • Flask • OpenCV • Tesseract OCR
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARAVEEDUTRIVIKRAM&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARAVEEDUTRIVIKRAM&layout=compact&theme=github_dark&hide_border=true&exclude_repo=ocr_web_app)
 
 
 ## Open To
