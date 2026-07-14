@@ -85,10 +85,11 @@ I enjoy designing secure backend systems, solving real-world problems, and conti
 
 ## 🌍 Local Environmental Issue Reporting System
 
-**Tech Stack: **
-Spring Boot • React • PostgreSQL • JWT • Docker
+> Production-ready issue reporting platform featuring role-based authentication, image upload, analytics dashboard, and REST APIs.
 
-Production-ready issue reporting platform featuring role-based authentication, image upload, analytics dashboard, and REST APIs.
+**Tech Stack**
+
+Spring Boot • React • PostgreSQL • JWT • Docker
 
 🔗 Live Demo: https://local-environmental-issue-reporting.vercel.app/
 
@@ -96,10 +97,11 @@ Production-ready issue reporting platform featuring role-based authentication, i
 
 ## 🔐 Secure File Sharing Manager
 
-**Tech Stack: **
-Spring Boot • React • PostgreSQL • JWT
+> Secure file management application with authentication, protected APIs, and file sharing capabilities.
 
-Secure file management application with authentication, protected APIs, and file sharing capabilities.
+**Tech Stack**
+
+Spring Boot • React • PostgreSQL • JWT
 
 🔗 Live Demo: https://file-sharing-manager.onrender.com/files
 
@@ -107,27 +109,28 @@ Secure file management application with authentication, protected APIs, and file
 
 ## 🌍 Multilingual OCR Web Application
 
-**Tech Stack: **
-Python • Flask • OpenCV • Tesseract OCR
+> OCR application supporting multiple Indian languages with selectable preprocessing techniques for improved recognition accuracy.
 
-OCR application supporting multiple Indian languages with selectable preprocessing techniques for improved recognition accuracy.
+**Tech Stack**
+
+Python • Flask • OpenCV • Tesseract OCR
 
 📂 Repository: https://github.com/ARAVEEDUTRIVIKRAM/ocr_web_app
 
 
 ## Currently Working On
 
-• Java Backend Development
+- Java Backend Development
 
-• Spring Boot
+- Spring Boot
 
-• REST APIs
+- REST APIs
 
-• SQL
+- SQL
 
-• DSA
+- DSA
 
-• Software Engineering Interview Preparation
+- Software Engineering Interview Preparation
 
 
 ## GitHub Statistics
@@ -142,7 +145,7 @@ OCR application supporting multiple Indian languages with selectable preprocessi
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARAVEEDUTRIVIKRAM&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARAVEEDUTRIVIKRAM&layout=compact&theme=github_dark&hide_border=true&exclude_repo=ocr_web_app)
 
 
 ## Open To
