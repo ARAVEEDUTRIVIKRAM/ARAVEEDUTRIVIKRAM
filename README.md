@@ -134,7 +134,7 @@ OCR application supporting multiple Indian languages with selectable preprocessi
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARAVEEDUTRIVIKRAM&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ARAVEEDUTRIVIKRAM&show_icons=true&theme=github_dark&hide_border=true)
 
 ### Contribution Streak
 
@@ -142,7 +142,7 @@ OCR application supporting multiple Indian languages with selectable preprocessi
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVEEDUTRIVIKRAM&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARAVEEDUTRIVIKRAM&layout=compact&theme=github_dark&hide_border=true)
 
 
 ## Open To
