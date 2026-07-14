@@ -83,21 +83,35 @@ I enjoy designing secure backend systems, solving real-world problems, and conti
 
 # Featured Projects
 
-🌍 Local Environmental Issue Reporting System
-Tech Stack: Spring Boot • React • PostgreSQL • JWT • Docker
+## 🌍 Local Environmental Issue Reporting System
+
+**Tech Stack**
+Spring Boot • React • PostgreSQL • JWT • Docker
+
 Production-ready issue reporting platform featuring role-based authentication, image upload, analytics dashboard, and REST APIs.
+
 🔗 Live Demo: https://local-environmental-issue-reporting.vercel.app/
+
 📂 Repository: https://github.com/ARAVEEDUTRIVIKRAM/Local_Environmental_Issue_Reporting_System
 
-🔐 Secure File Sharing Manager
-Tech Stack: Spring Boot • React • PostgreSQL • JWT
+## 🔐 Secure File Sharing Manager
+
+**Tech Stack**
+Spring Boot • React • PostgreSQL • JWT
+
 Secure file management application with authentication, protected APIs, and file sharing capabilities.
+
 🔗 Live Demo: https://file-sharing-manager.onrender.com/files
+
 📂 Repository: https://github.com/ARAVEEDUTRIVIKRAM/File_Sharing_Manager
 
-🌍 Multilingual OCR Web Application
-Tech Stack: Python • Flask • OpenCV • Tesseract OCR
+## 🌍 Multilingual OCR Web Application
+
+**Tech Stack**
+Python • Flask • OpenCV • Tesseract OCR
+
 OCR application supporting multiple Indian languages with selectable preprocessing techniques for improved recognition accuracy.
+
 📂 Repository: https://github.com/ARAVEEDUTRIVIKRAM/ocr_web_app
 
 
@@ -135,9 +149,9 @@ OCR application supporting multiple Indian languages with selectable preprocessi
 
 • Software Engineer
 
-• Associate Software Engineer
-
 • Java Backend Developer
+
+• Associate Software Engineer
 
 • Backend Engineer
 
@@ -147,9 +161,9 @@ OCR application supporting multiple Indian languages with selectable preprocessi
 
 ## Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/araveedu-trivikram-88b2462bb/
+💼 LinkedIn: [Araveedu Trivikram](https://www.linkedin.com/in/araveedu-trivikram-88b2462bb/)
 
 📧 Email: araveedutrivikram@gmail.com
 
-💻 GitHub: https://github.com/ARAVEEDUTRIVIKRAM
+💻 GitHub: [ARAVEEDUTRIVIKRAM](https://github.com/ARAVEEDUTRIVIKRAM)
 
